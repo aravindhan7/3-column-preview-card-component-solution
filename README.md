@@ -17,7 +17,7 @@ This is a solution to the [3-column preview card component solution challenge on
 ### Links
 
 - Solution URL: [https://github.com/aravindhan7/3-column-preview-card-component-solution]
-- Live Site URL: [https://aravindhan7.github.io/Stats-preview-card-components/]
+- Live Site URL: [https://aravindhan7.github.io/3-column-preview-card-component-solution]
 
 
 ## Author
